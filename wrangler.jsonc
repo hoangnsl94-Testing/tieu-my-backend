@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tieu-my-backend",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "TIEU_MY_KV",
+			"database_id": "4c1ce44d-5be5-45d5-89dd-d1038f3288d4"
+		}
+	]
+}
